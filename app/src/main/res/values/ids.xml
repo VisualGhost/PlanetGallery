@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_item_layout_id" type="id"/>
+    <item name="recycler_view_id" type="id"/>
+    <item name="item_layout_id" type="id"/>
+    <item name="photo_id" type="id"/>
+    <item name="name_id" type="id"/>
+    <item name="description_id" type="id"/>
+
+
+</resources>
